@@ -1,6 +1,6 @@
 # docker_opencv_fastapi
 
-This is a template to use opencv and fastapi with the official python docker image
+This is a template to use opencv and fastapi with the official python docker image (based on Debian Buster). 
 
 ### How to use
 Just execute `docker-compose up --build` to run it. Browse to `localhost:5000/docs` to view available requests.
